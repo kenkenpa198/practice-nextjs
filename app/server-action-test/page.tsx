@@ -8,7 +8,7 @@ export default function Page() {
     <>
       <h1>Server Action Test</h1>
       <form action={action_test}>
-        <input type="text" name="message" />
+        <input type="text" name="message" defaultValue="xxx" />
         <button type="submit">OK</button>
       </form>
     </>
