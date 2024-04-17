@@ -1,5 +1,7 @@
 # Practice - Next.js
 
+- Deployed: [NEXT.JS](https://practice-nextjs-eta.vercel.app/)
+
 ## Build on local device
 
 ```shell
