@@ -1,9 +1,5 @@
 # Practice - Next.js
 
-## Reference
-
-- [とほほのNext.js入門 - とほほのWWW入門](https://www.tohoho-web.com/ex/nextjs.html#source-files)
-
 ## Build on local device
 
 ```shell
@@ -32,3 +28,7 @@ $ npm run dev
  ✓ Compiled / in 2.4s (541 modules)
  GET / 200 in 2531ms
 ```
+
+## Reference
+
+- [とほほのNext.js入門 - とほほのWWW入門](https://www.tohoho-web.com/ex/nextjs.html#source-files)
